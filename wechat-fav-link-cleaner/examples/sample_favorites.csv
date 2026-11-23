@@ -1,0 +1,4 @@
+﻿标题,链接,收藏时间
+示例-正常站点,https://www.example.com/,2026-01-01
+示例-不存在的路径,https://www.example.com/this-page-does-not-exist-12345,2026-01-02
+示例-无效域名,http://this-domain-does-not-exist-abcxyz.invalid/page,2026-01-03
